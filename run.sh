@@ -2,6 +2,8 @@
 
 # Ubuntu 20.04
 
+# Based on https://atish3604.medium.com/solved-bluetooth-headset-mic-not-working-detected-in-ubuntu-20-04-86a5236444d0
+
 # Install 
 # echo "Install"
 # sudo add-apt-repository ppa:pipewire-debian/pipewire-upstream
